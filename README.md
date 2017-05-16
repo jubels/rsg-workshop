@@ -1,2 +1,2 @@
 # rsg-workshop
-RSG RR seminar
+RSG Reproducible Research seminar
